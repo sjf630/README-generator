@@ -26,7 +26,7 @@ This application uses Node.js and the Inquirer package to generate professional 
 
 ## Usage
 
-Answer the prompts in your terminal to generate a README file. The generated file will be called 'README-autoCreated.md'.
+Answer the prompts in your terminal to generate a README file. 
 
 ## License
 
