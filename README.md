@@ -16,7 +16,7 @@ A Node.js application that generates professional README files using user input.
 
 ## Description
 
-This application uses Node.js and the Inquirer package to generate professional README files through user input from the command line. The generated README includes a title, description, table of contents, installation instructions, usage information, license, contribution guidelines, tests, and contact information for questions.
+This application uses Node.js and the Inquirer package to generate professional README files through user input from the command line. 
 
 ## Installation
 
