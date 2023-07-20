@@ -12,7 +12,7 @@ A Node.js application that generates professional README files using user input.
 - [License](#license)
 - [Contributing](#contributing)
 - [Tests](#tests)
-- [Questions](#questions)
+- [Author](#author)
 
 ## Description
 
@@ -40,6 +40,6 @@ Contributions are welcome. If you're interested in contributing, please fork the
 
 There are currently no tests for this application.
 
-## Questions
+## Author
 
-If you have any questions about this application, please open an issue or contact me directly at your-email@example.com. You can check out more of my work at https://github.com/sjf630
+You can check out more of my work at https://github.com/sjf630
